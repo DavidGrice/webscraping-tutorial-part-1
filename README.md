@@ -1,6 +1,6 @@
 # instaScrappy
 
-### Purpose: To scrape images and follower/following information from Instagram accounts to use for deep-learning.
+### Purpose: To scrape images and follower/following/posts information from Instagram accounts.
 
 ### Libraries Needed
 #### pip install urllib3
